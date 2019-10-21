@@ -19,19 +19,19 @@ export default class Directory extends Component {
         {
           title: 'PS4',
           imageUrl:
-            'https://media.4rgos.it/i/Argos/6185936_R_Z001A?w=750&h=440&qlt=70',
+            'https://cnet1.cbsistatic.com/img/yPzY4G61oVgInoMuUPNpjZx_-zA=/868x488/2013/11/11/b8024faa-67c2-11e3-a665-14feb5ca9861/Sony_PS4_35618167_01.jpg',
           id: 2
         },
         {
           title: 'Switch',
           imageUrl:
-            'https://media.4rgos.it/i/Argos/2078126_R_Z001A?w=750&h=440&qlt=70',
+            'https://cdn.arstechnica.net/wp-content/uploads/2019/07/2-4.jpg',
           id: 3
         },
         {
           title: 'Xbox One',
           imageUrl:
-            'https://images-na.ssl-images-amazon.com/images/I/61ux1cU49XL._AC_.jpg',
+            'https://cdn.pocket-lint.com/r/s/970x/assets/images/141329-games-review-xbox-one-x-review-image2-28fwsqx4oi.jpg',
           size: 'large',
           id: 4
         },
