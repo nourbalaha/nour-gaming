@@ -1,14 +1,14 @@
 import React, { Component } from 'react'
-constructor(props) {
-    super(props)
+import SHOP_DATA from "./shop.data";
 
-    this.state = {
-         collections: []
+export default class ShopPage extends Component {
+    constructor(props) {
+        super(props)
+    
+        this.state = {
+             collections: [...SHOP_DATA]
+        }
     }
-}
-
-
-export default class shop.component extends Component {
     render() {
         return (
             <div>
