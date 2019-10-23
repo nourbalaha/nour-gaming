@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-import { ReactComponent as Logo } from '../../assets/gamepad.svg'
+import { ReactComponent as Logo } from '../../assets/game.svg'
 
 import './header.styles.scss'
 
